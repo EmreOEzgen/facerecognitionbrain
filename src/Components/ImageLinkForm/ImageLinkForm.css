@@ -1,0 +1,8 @@
+.form {
+    width: 700px;
+}
+
+.blur {
+    filter: blur(8px);
+}
+
